@@ -1,0 +1,12 @@
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\bin\Debug\prac1.exe.config
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\obj\Debug\prac1.csprojResolveAssemblyReference.cache
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\obj\Debug\prac1.Form1.resources
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\obj\Debug\prac1.Properties.Resources.resources
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\obj\Debug\prac1.csproj.GenerateResource.Cache
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\bin\Debug\prac1.exe
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\bin\Debug\prac1.pdb
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\obj\Debug\prac1.exe
+D:\大學University\103-2\物件導向練習\20150505\prac1\prac1\obj\Debug\prac1.pdb
+C:\Users\USER\Desktop\prac1\prac1\bin\Debug\prac1.exe.config
+C:\Users\USER\Desktop\prac1\prac1\obj\Debug\prac1.exe
+C:\Users\USER\Desktop\prac1\prac1\obj\Debug\prac1.pdb
